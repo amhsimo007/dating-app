@@ -1,0 +1,31 @@
+{
+  "short_name": "Dating App",
+  "name": "Dating App - Find Your Match",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ec4899",
+  "background_color": "#ffffff",
+  "description": "A modern dating app to find your perfect match with real-time chat and smart matching.",
+  "orientation": "portrait-primary",
+  "categories": ["social", "lifestyle"],
+  "lang": "en-US",
+  "scope": "/",
+  "splash_pages": null
+}
