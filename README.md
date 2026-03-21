@@ -198,3 +198,7 @@ For support or questions, please open an issue on GitHub.
 ---
 
 **Note**: This is a demonstration application. For production use, ensure proper security measures, legal compliance, and thorough testing.
+=======
+# dating-app
+dating-app 
+>>>>>>> 8b5c8fefcb44915caf8f8da41665fdc439d80537
